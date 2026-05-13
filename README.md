@@ -1,7 +1,3 @@
-Here’s an improved and more professional `README.md` you can directly paste into your GitHub repository.
-
----
-
 # Mobile Legends User Info Lookup API
 
 A powerful API for retrieving Mobile Legends: Bang Bang (MLBB) player information including rank, nickname, account details, collector stats, skins, login information, squad data, hero history, and more.
